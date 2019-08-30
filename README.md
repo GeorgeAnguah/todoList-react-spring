@@ -27,7 +27,7 @@ for details on our code of conduct, and the process for submitting pull requests
 
 ## Notes
 
-* Start Spring Boot application first by changing directory into spring-boot-backend then - 
+* Start Spring Boot application first by changing directory into todolist then - 
 **mvn spring-boot:run** or **mvnw spring-boot:run**
 
 * Start React application by changing directory into react-frontend then - **npm install** then **npm start**
