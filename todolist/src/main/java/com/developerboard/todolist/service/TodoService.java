@@ -11,7 +11,6 @@ import org.springframework.stereotype.Service;
  * @see
  * @since 1.0
  */
-
 @Service
 public interface TodoService {
 

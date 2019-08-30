@@ -12,9 +12,12 @@
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
+*/todo-backend-spring/*
+todo-backend-spring/*
 
 # Generated files
 .idea/**/contentModel.xml
+
 
 # Sensitive or high-churn files
 .idea/**/dataSources/
